@@ -7,6 +7,8 @@ This repository contains all four assignments completed for the Cognition & Comp
 **Program:** BSc Data Science & Artificial Intelligence, Leiden University  
 **Year:** 2024–2025
 
+_Course taught by Dr. Steven Miletić and Dr. ir. Roy de Kleijn (Leiden University, 2024–2025, code: 5744CACHCW)_
+
 ---
 
 ## 📚 Table of Contents
