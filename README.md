@@ -4,8 +4,6 @@ This repository contains all four assignments completed for the Cognition & Comp
 
 _Course taught by Dr. Steven Miletić and Dr. ir. Roy de Kleijn (Leiden University, 2024–2025)_
 
-**Authors:** Diego Cañas Jiménez · Hao Chen · Adrien Im · Koorosh Komeilizadeh · Yihui Peng
-
 ---
 
 ## Table of Contents
@@ -21,6 +19,8 @@ _Course taught by Dr. Steven Miletić and Dr. ir. Roy de Kleijn (Leiden Universi
 
 **Topic:** Modeling recognition memory with DPSD and UVSD  
 **Tools:** Python, ROC curves
+<sub>**Authors:** Diego Cañas Jiménez · Hao Chen · Adrien Im · Koorosh Komeilizadeh · Yihui Peng</sub>
+
 
 We compared the performance of:
 - Dual-Process Signal Detection (DPSD) model
