@@ -48,7 +48,8 @@ We compared the performance of:
 - Used thresholds to identify likely word boundaries.
 - Evaluated the segmentation strategy with insights from infant language learning.
 
-📄 [`Group6__Assignment_2.pdf`](./Group6__Assignment_2.pdf)
+📄 [View Report](./Assignment%202%20-%20Language/report.pdf)
+
 
 ---
 
@@ -63,7 +64,8 @@ We compared the performance of:
 - Analyzed the effects of **threshold** and **drift** on speed and accuracy.
 - Replicated key insights from Bogacz et al. and Forstmann et al.
 
-📄 [`Cognition___Computation__Assignment_3__Decision_Making.pdf`](./Cognition___Computation__Assignment_3__Decision_Making.pdf)
+📄 [View Report](./Assignment%203%20-%20Decision%20Making/report.pdf)
+
 
 ---
 
@@ -78,7 +80,7 @@ We compared the performance of:
 - Simulated property/instance retrieval with real-time decay, excitation, and inhibition.
 - Compared outputs with McClelland's 1981 results.
 
-📄 [`Assignment4_Adrien_IM_3984389.pdf`](./Assignment4_Adrien_IM_3984389.pdf)
+📄 📄 [View Report](./Assignment%204%20-%20Connectionism/report.pdf)
 
 ---
 
