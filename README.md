@@ -10,7 +10,6 @@ This repository contains all four assignments completed for the **Cognition & Co
 - [Assignment 2: Language Segmentation](#assignment-2-language-segmentation-group)
 - [Assignment 3: Decision Making & DDM](#assignment-3-decision-making--ddm-group)
 - [Assignment 4: Connectionism](#assignment-4-connectionism-individual)
-- [About Me](#about-me)
 
 ---
 
