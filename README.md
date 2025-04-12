@@ -4,7 +4,7 @@ This repository contains all four assignments completed for the **Cognition & Co
 
 > 📌 **Note:**  
 > Assignments 1–3 were completed as **group projects**.  
-> Assignment 4 was completed **individually** by [Adrien Joon-Ha Im](https://github.com/your-github-handle).
+> Assignment 4 was completed **individually**
 
 ---
 
