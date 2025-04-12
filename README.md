@@ -2,6 +2,11 @@
 
 This repository contains all four assignments completed for the Cognition & Computation course at Leiden University. The course explores key concepts in cognitive science through computational modeling.
 
+**Course Code:**   
+**Lecturers:** Dr. Steven Miletić, Dr. ir. Roy de Kleijn  
+**Program:** BSc Data Science & Artificial Intelligence, Leiden University  
+**Year:** 2024–2025
+
 ---
 
 ## 📚 Table of Contents
