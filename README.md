@@ -1,6 +1,6 @@
 # 🧠 Cognition & Computation – Course Assignments
 
-This repository contains all four assignments completed for the **Cognition & Computation** course at Leiden University. The course explores key concepts in cognitive science through computational modeling.
+This repository contains all four assignments completed for the Cognition & Computation course at Leiden University. The course explores key concepts in cognitive science through computational modeling.
 
 ---
 
@@ -74,7 +74,7 @@ We compared the performance of:
 - Simulated property/instance retrieval with real-time decay, excitation, and inhibition.
 - Compared outputs with McClelland's 1981 results.
 
-📄 📄 [View Report](./Assignment%204%20-%20Connectionism/report.pdf)
+📄 [View Report](./Assignment%204%20-%20Connectionism/report.pdf)
 
 ---
 
