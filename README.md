@@ -33,7 +33,7 @@ We compared the performance of:
 - Generated ROC curves to assess model fit.
 - Found both UVSD and DPSD outperform random guessing.
 
-📄 [`report.pdf`](./report.pdf)
+📄 [View Report](./Assignment%201%20-%20Memory/report.pdf)
 
 ---
 
