@@ -2,10 +2,6 @@
 
 This repository contains all four assignments completed for the **Cognition & Computation** course at Leiden University. The course explores key concepts in cognitive science through computational modeling.
 
-> 📌 **Note:**  
-> Assignments 1–3 were completed as **group projects**.  
-> Assignment 4 was completed **individually**
-
 ---
 
 ## 📚 Table of Contents
@@ -20,13 +16,13 @@ This repository contains all four assignments completed for the **Cognition & Co
 
 ## Assignment 1: Memory Models (Group)
 
-**Topic:** Modeling recognition memory with **DPSD** and **UVSD**  
+**Topic:** Modeling recognition memory with DPSD and UVSD  
 **Tools:** Python, ROC curves
 
 We compared the performance of:
-- **Dual-Process Signal Detection (DPSD)** model
-- **Unequal Variance Signal Detection (UVSD)** model
-- A **random guessing baseline**
+- Dual-Process Signal Detection (DPSD) model
+- Unequal Variance Signal Detection (UVSD) model
+- A random guessing baseline
 
 ### Highlights
 - Implemented memory strength simulations.
@@ -39,7 +35,7 @@ We compared the performance of:
 
 ## Assignment 2: Language Segmentation (Group)
 
-**Topic:** Word segmentation using **transitional probabilities**  
+**Topic:** Word segmentation using transitional probabilities  
 **Dataset:** Artificial language stream  
 **Tools:** Python, histogram analysis
 
@@ -55,13 +51,13 @@ We compared the performance of:
 
 ## Assignment 3: Decision Making & DDM (Group)
 
-**Topic:** Simulating the **Drift Diffusion Model (DDM)**  
+**Topic:** Simulating the Drift Diffusion Model (DDM)  
 **Models:** Random Walk, Thresholds, Drift Rates  
 **Tools:** Python, statistical plots
 
 ### Highlights
 - Simulated decision-making as evidence accumulation.
-- Analyzed the effects of **threshold** and **drift** on speed and accuracy.
+- Analyzed the effects of threshold and drift on speed and accuracy.
 - Replicated key insights from Bogacz et al. and Forstmann et al.
 
 📄 [View Report](./Assignment%203%20-%20Decision%20Making/report.pdf)
@@ -71,8 +67,7 @@ We compared the performance of:
 
 ## Assignment 4: Connectionism (Individual)
 
-**Topic:** Implementing McClelland’s **IAC Model**  
-**Name:** Adrien Joon-Ha Im (3984389)  
+**Topic:** Implementing McClelland’s IAC Model    
 **Focus:** Associative memory, inhibitory/excitatory dynamics
 
 ### Highlights
