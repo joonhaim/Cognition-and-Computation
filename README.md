@@ -30,7 +30,7 @@ We compared the performance of:
 - Generated ROC curves to assess model fit.
 - Found both UVSD and DPSD outperform random guessing.
 
-📄 [View Report](./Assignment%201%20-%20Memory/report.pdf)
+📄 [View Report](./Assignment%201%20-%20Memory/report.pdf) - Grade: 9.0 / 10.0
 
 ---
 
@@ -45,7 +45,7 @@ We compared the performance of:
 - Used thresholds to identify likely word boundaries.
 - Evaluated the segmentation strategy with insights from infant language learning.
 
-📄 [View Report](./Assignment%202%20-%20Language/report.pdf)
+📄 [View Report](./Assignment%202%20-%20Language/report.pdf) - Grade: 10.0 / 10.0
 
 
 ---
@@ -61,7 +61,7 @@ We compared the performance of:
 - Analyzed the effects of threshold and drift on speed and accuracy.
 - Replicated key insights from Bogacz et al. and Forstmann et al.
 
-📄 [View Report](./Assignment%203%20-%20Decision%20Making/report.pdf)
+📄 [View Report](./Assignment%203%20-%20Decision%20Making/report.pdf) - Grade: 10.0 / 10.0
 
 
 ---
