@@ -4,6 +4,8 @@ This repository contains all four assignments completed for the Cognition & Comp
 
 _Course taught by Dr. Steven Miletić and Dr. ir. Roy de Kleijn (Leiden University, 2024–2025)_
 
+**Authors:** Diego Cañas Jiménez · Hao Chen · Adrien Im · Koorosh Komeilizadeh · Yihui Peng
+
 ---
 
 ## Table of Contents
