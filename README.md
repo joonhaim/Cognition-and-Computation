@@ -1,4 +1,4 @@
-# 🧠 Cognition & Computation – Course Assignments
+# Cognition & Computation – Course Assignments
 
 This repository contains all four assignments completed for the Cognition & Computation course at Leiden University. The course explores key concepts in cognitive science through computational modeling.
 
@@ -6,7 +6,7 @@ _Course taught by Dr. Steven Miletić and Dr. ir. Roy de Kleijn (Leiden Universi
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [Assignment 1: Memory Models](#assignment-1-memory-models-group)
 - [Assignment 2: Language Segmentation](#assignment-2-language-segmentation-group)
