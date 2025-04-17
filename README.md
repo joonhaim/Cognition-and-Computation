@@ -20,6 +20,9 @@ _Course taught by Dr. Steven Miletić and Dr. ir. Roy de Kleijn (Leiden Universi
 **Topic:** Modeling recognition memory with DPSD and UVSD  
 **Tools:** Python, ROC curves
 
+**Authors:** Diego Cañas Jiménez · Hao Chen · Adrien Im · Koorosh Komeilizadeh · Yihui Peng
+
+
 We compared the performance of:
 - Dual-Process Signal Detection (DPSD) model
 - Unequal Variance Signal Detection (UVSD) model
@@ -40,6 +43,8 @@ We compared the performance of:
 **Dataset:** Artificial language stream  
 **Tools:** Python, histogram analysis
 
+**Authors:** Diego Cañas Jiménez · Hao Chen · Adrien Im · Koorosh Komeilizadeh · Yihui Peng
+
 ### Highlights
 - Computed syllable transitions using `P(y|x)`.
 - Used thresholds to identify likely word boundaries.
@@ -56,6 +61,8 @@ We compared the performance of:
 **Models:** Random Walk, Thresholds, Drift Rates  
 **Tools:** Python, statistical plots
 
+**Authors:** Diego Cañas Jiménez · Hao Chen · Adrien Im · Koorosh Komeilizadeh · Yihui Peng
+
 ### Highlights
 - Simulated decision-making as evidence accumulation.
 - Analyzed the effects of threshold and drift on speed and accuracy.
@@ -68,8 +75,10 @@ We compared the performance of:
 
 ## Assignment 4: Connectionism (Individual)
 
-**Topic:** Implementing McClelland’s IAC Model    
+**Topic:** Implementing McClelland’s IAC Model   
 **Focus:** Associative memory, inhibitory/excitatory dynamics
+
+**Authors:** Adrien Joon-Ha Im
 
 ### Highlights
 - Built an IAC network with node-level activation dynamics.
