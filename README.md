@@ -85,7 +85,7 @@ We compared the performance of:
 - Simulated property/instance retrieval with real-time decay, excitation, and inhibition.
 - Compared outputs with McClelland's 1981 results.
 
-📄 [View Report](./Assignment%204%20-%20Connectionism/report.pdf)
+📄 [View Report](./Assignment%204%20-%20Connectionism/report.pdf) - Grade: 8.0 / 10.0
 
 ---
 
